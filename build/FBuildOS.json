@@ -1,0 +1,25 @@
+{
+    "compiler": {
+        "c": "gcc",
+        "cpp": "g++"
+    },
+
+    "file-scope": [
+        {
+            "ext": ".c",
+            "cf": "c"
+        },
+        {
+            "ext": ".cpp",
+            "cf": "cpp"
+        },
+        {
+            "ext": ".so.c",
+            "cf": "c-so"
+        },
+        {
+            "ext": ".so.cpp",
+            "cf": "cpp-so"
+        }
+    ]
+}

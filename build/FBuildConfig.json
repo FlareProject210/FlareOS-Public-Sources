@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "h-files": [
+            ".h",
+            ".hpp"
+        ],
+        
+        "kill": false
+    }
+}
